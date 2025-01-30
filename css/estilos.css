@@ -176,7 +176,10 @@ main
     justify-content: center;
     margin: 5%;
     flex-wrap: wrap;
+    flex-direction: column;
 }
+
+
 
 /* Ajustamos la imagen que añadimos al footer */
 footer img
